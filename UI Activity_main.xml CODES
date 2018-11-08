@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imbuga"
+    tools:context=".MainActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="515dp">
+
+            <Button
+                android:id="@+id/igihebtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/igihe" />
+
+            <Button
+                android:id="@+id/umusekebtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="98dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/umuseke" />
+
+            <Button
+                android:id="@+id/kiagalitodaybtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/kigalitoday" />
+
+            <Button
+                android:id="@+id/imisozibtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/imisozi" />
+
+
+            <Button
+                android:id="@+id/jobinrwandabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/jobinrwanda" />
+
+            <Button
+                android:id="@+id/ndangirabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="98dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/ndangira" />
+
+            <Button
+                android:id="@+id/umurimobtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/umurimoo" />
+
+            <Button
+                android:id="@+id/irembobtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/iremboo" />
+
+            <Button
+                android:id="@+id/kaymubtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/kaymu" />
+
+            <Button
+                android:id="@+id/ninyampingabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="98dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/ninyampinga" />
+
+            <Button
+                android:id="@+id/inyarwandabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/inyarwandaa" />
+
+            <Button
+                android:id="@+id/eachampsbtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/eachamps" />
+
+
+            <Button
+                android:id="@+id/googlebtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/google" />
+
+            <Button
+                android:id="@+id/facebookbtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="98dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/facebook" />
+
+            <Button
+                android:id="@+id/youtubebtnbtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/youtube" />
+
+            <Button
+                android:id="@+id/amazonbtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/amazon" />
+
+
+            <Button
+                android:id="@+id/livescorebtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="380dp"
+                android:background="@drawable/livescore" />
+
+            <Button
+                android:id="@+id/ebaybtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="98dp"
+                android:layout_marginTop="380dp"
+                android:background="@drawable/ebay" />
+
+            <Button
+                android:id="@+id/xvideobtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="380dp"
+                android:background="@drawable/xvideo" />
+
+            <Button
+                android:id="@+id/xnxxbtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="380dp"
+                android:background="@drawable/xnxx" />
+
+
+            <Button
+                android:id="@+id/ruhagoyacubtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="415dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/ruhago" />
+
+
+            <Button
+                android:id="@+id/mifotrabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="515dp"
+                android:layout_marginTop="155dp"
+                android:background="@drawable/mifotra" />
+
+            <Button
+                android:id="@+id/rwandabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="415dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/rwanda" />
+
+
+            <Button
+                android:id="@+id/ukwezibtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="515dp"
+                android:layout_marginTop="212dp"
+                android:background="@drawable/ukwezi" />
+
+            <Button
+                android:id="@+id/rushyashyabtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="415dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/rushyashya" />
+
+            <Button
+                android:id="@+id/umuryangobtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="515dp"
+                android:layout_marginTop="268dp"
+                android:background="@drawable/umuryango" />
+
+            <Button
+                android:id="@+id/mucuruzibtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="415dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/mucuruzi" />
+
+            <Button
+                android:id="@+id/makurukibtn"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="515dp"
+                android:layout_marginTop="325dp"
+                android:background="@drawable/makuriii" />
+
+            <RelativeLayout
+                android:layout_width="200dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginRight="100dp"
+                android:layout_marginTop="50dp">
+
+
+                <WebView
+                    android:id="@+id/ads"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/imbuga" />
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+    <TextView
+        android:id="@+id/copyrite"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:background="@color/Black"
+        android:text="imbuga \u00A92018 powered By imisozi.cf"
+        android:textAlignment="center"
+        android:textColor="@color/gold"
+        android:textSize="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/done"
+        android:layout_width="129dp"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Key joshua"
+        android:textAlignment="center"
+        android:textColor="@color/gold"
+        android:textSize="8dp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/url"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/edittextatyle"
+        android:ems="10"
+        android:text="www."
+        android:textColor="@color/white"
+        android:textSize="15dp"/>
+
+    <EditText
+        android:layout_width="64dp"
+        android:layout_height="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-68dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@+id/url"
+        android:background="@drawable/backgr"
+        android:ems="10"
+        tools:ignore="RtlCompat" />
+
+    <ImageButton
+        android:id="@+id/mic"
+        android:layout_width="27dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="80dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/button_background"
+        tools:ignore="RtlCompat" />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/shakiraha"
+        android:layout_width="60.5dp"
+        android:layout_height="37dp"
+        android:layout_alignBottom="@+id/url"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/go"
+        android:enabled="false"/>
+
+    <Button
+        android:id="@+id/logo"
+        android:layout_width="52dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="46dp"
+        android:background="@drawable/imisoz"
+        android:text="Button"
+        tools:ignore="RtlCompat" />
+
+    <Button
+        android:id="@+id/idea"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp"
+        android:background="@drawable/ic_message"
+        tools:ignore="RtlCompat" />
+
+
+
+
+</RelativeLayout>
